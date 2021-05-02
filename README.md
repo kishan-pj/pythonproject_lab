@@ -42,7 +42,7 @@ sum = (n*(n+1))/2
 
 
 
-#Python_lab_exercise_2
+# Python_lab_exercise_2
 
 1. Check whether 5 is in list of first 5 natural numbers or not. Hint: List => [1,2,3,4,5]
 2. WAP which accepts marks of four subjects and display total marks, percentage and 
